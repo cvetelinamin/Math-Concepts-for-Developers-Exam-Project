@@ -1,0 +1,34 @@
+# Python
+pycache/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Anaconda / Jupyter temp files
+.virtual_documents/
+anaconda_projects/
+
+# Logs
+*.log
+
+# CSV outputs (optional - ако не искаш да качваш генерирани файлове)
+# *.csv
+
+# Temporary files
+*.tmp
+*.temp
